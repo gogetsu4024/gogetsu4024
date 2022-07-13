@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ## Some things About me : 
-- 🔭 I’m currently working on Swiver which is a private react native app for a company in tunisia 
+- 🔭 I’m currently working on Expatrio which is a flutter app for a company in Germany 
 - 🌱 I’m currently learning Kotlin on the side along with the best practices of android development
 - 👯 I’m looking to collaborate on any project as long as i have the time since i'm inclined to learn
 
