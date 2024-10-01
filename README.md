@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Anything if i can help i'll do my best 😄
 - 💬 I also started a gitlab account but it only holds code for professional use this is some of the stuff i had when i was studying
-- 📫 How to reach me: bassem.gharbi@esprit.tn
+- 📫 How to reach me: bassem.gharbi4024@gmail.com
 
 
